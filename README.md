@@ -1,7 +1,7 @@
 # Exifxtract
 
-An Advance Exif Data Extractor
-Features -
+An Advance Exif Data Extractor<br>
+Features -<br>
 
-Extract Data through Image Link
+Extract Data through Image Link<br>
 Remove Exif Data
